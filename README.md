@@ -19,3 +19,7 @@ In this tutorial i will show you the web automation bot for form filling which i
 #### 4: Then the form popup will be opened in which the Picture of the form will be shown to be filled:
 
 ![Alt text](/images/4n.png?raw=true "Optional Title")
+
+#### 5: You can go Forward And Backward by Arrow Buttons:
+
+![Alt text](/images/5n.png?raw=true "Optional Title")
